@@ -24,7 +24,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[Relative link to README.md](README.md)
+
+- [x] Marked task box
+- [ ] Unmarked task box
 ```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
