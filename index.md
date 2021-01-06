@@ -1,7 +1,5 @@
 # Welcome to Juan Carlos Amistoso's User Page
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -15,10 +13,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text 
 
-[Link](url) and ![Image](src)
-
-
-```
 
 ~~Strikethrough text~~
 
@@ -27,7 +21,14 @@ Syntax highlighted code block
 - [x] Marked task box
 - [ ] Unmarked task box
 
-![Example image](https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/1200px-Kirby_SSBU.png)
-
 > Quoted text
 
+
+```markdown
+Syntax highlighted code block
+
+Hello
+
+```
+
+![Example image](https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/1200px-Kirby_SSBU.png)
